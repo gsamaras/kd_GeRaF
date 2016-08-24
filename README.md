@@ -1,4 +1,4 @@
-kd-GeRaF project by Georgios Samaras, university of Athens, 2015.
+kd-GeRaF: project/thesis by George Samaras, university of Athens, 2015.
 
 -> Foler 'Doxygen' contains the html documentation.
 -> Folder 'main' contains files that can be the main() of the project.
@@ -12,6 +12,4 @@ kd-GeRaF project by Georgios Samaras, university of Athens, 2015.
 
 ---
 
-http://arxiv.org/pdf/1603.0959.pdf
-
-[High-dimensional approximate nearest neighbor: k-d Generalized Randomized Forests](http://arxiv.org/pdf/1603.0959.pdf)
+Paper: [High-dimensional approximate nearest neighbor: k-d Generalized Randomized Forests](http://arxiv.org/pdf/1603.0959.pdf)
