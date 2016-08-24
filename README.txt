@@ -9,3 +9,7 @@ kd-GeRaF project by Georgios Samaras, university of Athens, 2015.
 -> Makefile should be used for compilation.
 -> LICENSE.txt contains the license of kd-GeRaF.
 -> run.sh contains a script for running experiments.
+
+---
+
+Paper: [High-dimensional approximate nearest neighbor: k-d Generalized Randomized Forests](http://arxiv.org/pdf/1603.0959.pdf)
