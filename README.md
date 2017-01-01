@@ -1,4 +1,4 @@
-# kd-GeRaF: 
+# kd-GeRaF
 Project/thesis of George Samaras, university of Athens, 2015.
 
 * Foler 'Doxygen' contains the html documentation.
