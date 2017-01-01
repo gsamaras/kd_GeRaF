@@ -1,7 +1,6 @@
 kd-GeRaF: project/thesis by George Samaras, university of Athens, 2015.
 
 -> Foler 'Doxygen' contains the html documentation.
-
 -> Folder 'main' contains files that can be the main() of the project.
 
 -> Folder 'makefiles' contains several Makefiles.
