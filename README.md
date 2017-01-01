@@ -12,4 +12,4 @@ kd-GeRaF: project/thesis by George Samaras, university of Athens, 2015.
 
 ---
 
-Paper: [High-dimensional approximate nearest neighbor: k-d Generalized Randomized Forests](https://arxiv.org/pdf/1603.09596.pdf)
+Read more in our Paper: [High-dimensional approximate nearest neighbor: k-d Generalized Randomized Forests](https://arxiv.org/pdf/1603.09596.pdf)
