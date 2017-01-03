@@ -18,3 +18,6 @@ par_auto:
 	
 exp_par_auto:
 	make	-f	makefiles/Makefile_exp_par_auto
+
+manual:
+        make    -f      makefiles/Makefile_manual
