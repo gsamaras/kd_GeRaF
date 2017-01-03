@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
   int k = 2;
   double epsilon = 0.0;
   std::string datafile = "test_files/data.txt", queryfile = "test_files/query.txt";
-  std::vector< std::vector<std::pair<float, int> > > res;
+  std::vector<std::vector<std::pair<float, int> > > results;
 
   size_t points_per_leaf = 1;
   int trees_no = 1;
@@ -43,7 +43,6 @@ int main(int argc, char *argv[]) {
   read_points<T>(q, Q, D, queryfile.c_str());
   
   // perform the search
-  std::vector<std::vector<std::pair<float, int> > > results;
   results.resize(Q);
   for (unsigned int i = 0; i < Q; ++i) {
         search_nn_prune(q[i], results[i], max_leaf_check, k, epsilon);
