@@ -1,0 +1,23 @@
+OBJS    = main_manual.o
+SOURCE  = ../main/main_manual.cpp
+HEADER  =       ../Division_Euclidean_space.h   ../Find_diameter.h      ../Find$
+OUT     =       geraf
+CXX     = g++
+FLAGS   =       -std=c++0x      -O3     -Wall
+
+all: $(OBJS)
+        $(CXX)  $(OBJS) -o $(OUT)       $(FLAGS)
+        make    -f      makefiles/Makefile_manual       clean
+
+# create/compile the individual files >>separately<<
+main_manual.o:  main/main_manual.cpp
+        $(CXX)  -c      main/main_manual.cpp    $(FLAGS)
+
+.PHONY : all
+# clean house
+clean:
+        rm -f $(OBJS)
+
+# do a bit of accounting
+count:
+        wc $(SOURCE) $(HEADER)
