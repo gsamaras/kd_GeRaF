@@ -13,4 +13,4 @@ Project/thesis of George Samaras, university of Athens, 2015.
 
 ---
 
-Read more in our Paper: [High-dimensional approximate nearest neighbor: k-d Generalized Randomized Forests](https://arxiv.org/pdf/1603.09596.pdf)
+Read more in our Paper: [High-dimensional approximate nearest neighbor: k-d Generalized Randomized Forests](https://arxiv.org/pdf/1603.09596.pdf)[Avrithis, Prof. Emiris and Samaras].
