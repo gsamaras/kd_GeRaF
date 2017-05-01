@@ -133,15 +133,6 @@ void readDivisionSpacefvecs(Division_Euclidean_space<T>& ds, int& N, int& D, cha
   	printf("WARNING! Read less points than expected.\n");
 }
 
-/*
-j = 255, v = 0.052300, read up to point 279620
-j = 256, v = 0.052300, read up to point 279620
-terminate called after throwing an instance of 'std::bad_alloc'
-  what(): std::bad_alloc
-Aborted
-Dataset: 500,000 points in 960 dimensions.
-*/
-
 /** \brief Read a collection of points from file.
  *
  * Dimension and number of points should have been
