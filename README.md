@@ -8,7 +8,7 @@ Just include kd-GeRaF's header file.
 
 ## How fast is kd-GeRaF??
 
-We handle GIST datasets of 10sup>6</sup> images in 960 dimensions in < 1 sec with about 90% outputs being true nearest neighbors.
+We handle GIST datasets of 10<sup>6</sup> images in 960 dimensions in < 1 sec with about 90% outputs being true nearest neighbors.
 
 ---
 
