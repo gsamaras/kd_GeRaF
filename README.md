@@ -1,4 +1,17 @@
 # kd-GeRaF
+*kd-GeRaF* is a **C++ [header-only](http://en.wikipedia.org/wiki/Header-only) library**, whcich provides a Generalized Randomized k-d Forest for (approximate) Nearest Neighbor Search in a high dimensional space.
+
+
+## How to use kd-GeRaF?
+
+Just include kd-GeRaF's header file.
+
+## How fast is kd-GeRaF??
+
+We handle GIST datasets of 10sup>6</sup> images in 960 dimensions in < 1 sec with about 90% outputs being true nearest neighbors.
+
+---
+
 Project/thesis of George Samaras, university of Athens, 2015.
 
 * Foler 'Doxygen' contains the html documentation.
